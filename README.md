@@ -1,2 +1,2 @@
 # Unity-projects
-E.M.I. is a Unity project made for purposes of learning Unity and C#, C++ programing languages. E.M.I. is published on Google play store and is available for download on Android.
+Santa Run is simple browser endless runner game inspired by Dino run. There will be future updates and changes.
